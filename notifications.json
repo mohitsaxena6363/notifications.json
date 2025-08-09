@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Welcome",
+    "message": "MohitCodes Notification System Activated",
+    "time": "2025-08-09 07:00"
+  },
+  {
+    "title": "Update",
+    "message": "New tutorial uploaded on MohitCodes YouTube channel",
+    "time": "2025-08-09 08:00"
+  },
+  {
+    "title": "Reminder",
+    "message": "Don’t forget to check new free notes on the website",
+    "time": "2025-08-09 09:00"
+  }
+]
