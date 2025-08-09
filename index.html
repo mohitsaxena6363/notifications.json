@@ -53,7 +53,7 @@ h1 {
 async function loadNotifications() {
   try {
     // अपनी GitHub raw JSON URL डालें
-    const url = "https://mohitsaxena6363.github.io/notifications.json/";
+    const url = "https://raw.githubusercontent.com/mohitsaxena6363/notifications.json/refs/heads/main/notifications.json";
     const res = await fetch(url);
     const data = await res.json();
 
